@@ -2,22 +2,67 @@
 
 /* https://www.w3schools.com/css/css_howto.asp */
 
-table {
-font-family: arial, sans-serif;
-border-collapse: collapse;
-width: 100%;
+* {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+
+input[type=submit] {
+    background-color: green;
+    color: white;
+    padding: 5px 5px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+
+a:link {
+    text-decoration: none;
+    color:purple
+  }
+
+title{
+    color:green;
+    font-weight: bolder;
+}
+
+h1 {
+    color: black;
+    padding: 15px;
+    text-align: center;
+  }
+
+h2 {
+    text-align: center;
+    color: black;
+}
+
+html {
+    background-color: magenta;
 }
 
 td, th {
-border: 1px solid #dddddd;
-text-align: left;
-padding: 8px;
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
-tr:nth-child(even) {
-background-color: #dddddd;
+input[type=text], input[type=password] {
+    position: absolute;
+    left: 200px;
+    color: magenta;
+    background-color: yellow;
 }
 
-input {
-/* float: right; */
+p {
+    text-align: left;
+    color:green; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
 }
+
+h3 {
+    color: black;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: left;
+}
+
+
+
