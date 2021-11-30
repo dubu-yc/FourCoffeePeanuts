@@ -1,5 +1,4 @@
-# CSS by Softlocked Ducks
-# Softlocked Ducks - Eric Guo, Yoonah Chang, Josephine Lee, Michael Borczuk
+# CSS by Softlocked Ducks - Eric Guo, Yoonah Chang, Josephine Lee, Michael Borczuk
 
 ## Notes
 - Doing background colors for text boxes is significantly easier than expected, however you have to specify which type of textbox
