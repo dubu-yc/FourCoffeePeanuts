@@ -2,7 +2,7 @@
 
 ## Notes
 - Doing background colors for text boxes is significantly easier than expected, however you have to specify which type of textbox
-- More specific CSS overrides the general (<html> vs <h1>)
+- More specific CSS overrides the general (html vs h1)
 - Absolute position is very impractical for this
 
 
